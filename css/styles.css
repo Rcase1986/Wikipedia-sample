@@ -1,1 +1,18 @@
-/* Stylesheet */
+/* 
+Color Palette: 
+#F0F0D8 Primary: light muave green
+#967C52 Secondary: darker brown
+#CFCFCF Tertiary: light gray
+*/
+
+body{
+	background: url("../img/solid.png");
+	font-family: 'Coda Caption', sans-serif;
+	
+	}
+
+header{
+	background:red;
+	}
+	
+nav{background:green;}
